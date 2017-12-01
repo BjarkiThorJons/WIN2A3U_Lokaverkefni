@@ -20,5 +20,5 @@ V* Setjið upp prentara fyrir hverja deild sem kemur sjálfkrafa hjá öllum not
 V* Allir notendur eiga að vera með Bubbles screen-saver (bubbles.scr) sem fer sjálfkrafa á hjá þeim
 	eftir fimm mínútur. 
 V* Allar tölvur hjá fyrirtækinu eiga að vera með Firefox.
-V* Notepad opan á login fyrir Prentun.
-v* Paint opnar á login fyrir grafíks miðlun.
+V* Notepad opan á login fyrir Prentun og það er eina forritið sem þeir geta notað.
+v* Paint opnar á login fyrir grafíks miðlun og það er eina forritið sem þeir geta notað.
