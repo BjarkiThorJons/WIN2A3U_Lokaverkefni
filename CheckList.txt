@@ -4,19 +4,21 @@ V* Til einföldunar skulum þið eingöngu vera með eitt IP net sem þá þarf 
 V* Allir notendur þurfa að fá heimasvæði, nemendur með 10MB kvóta en kennarar með
 	20MB kvóta. Nemendur skulu hafa lesaðgang að Sameign en kennarar fullan aðgang.
 	Kennarar skulu líka hafa aðgang að Kennaradrifi en nemendur engan aðgang.
-* Allar tölvur eiga að Chrome vafrann, kennara eiga að vera með Innu sem
+V* Allar tölvur eiga að Chrome vafrann, kennara eiga að vera með Innu sem
 	upphafssíðu, Tbr á að vera með forritun.is sem upphafssíðu og UF með tskoli.is sem
 	upphafssíðu. Ekki á að vera hægt að nota Internet Explorer í skólanum.
 V* Kennarar skulu vera með Admin aðgang að Win8.1 tölvunum.
 ********************************************************************************************************************
-* Á desktop hvers notanda skulu koma fram upplýsingar um nafn vélar, IP tölu hennar og stærð minnis, kynnið
+V* Á desktop hvers notanda skulu koma fram upplýsingar um nafn vélar, IP tölu hennar og stærð minnis, kynnið
 	ykkur BGInfo og logon script til að leysa þennan lið.
-* NAT?
-* Tryggja þarf að allir notendur sjái allar skráarendingar (e. file extensions).
-* Setjið upp prentara fyrir hverja deild sem kemur sjálfkrafa hjá öllum notendum í viðkomandi
+V* NAT?
+V* Tryggja þarf að allir notendur sjái allar skráarendingar (e. file extensions).
+V* Setjið upp prentara fyrir hverja deild sem kemur sjálfkrafa hjá öllum notendum í viðkomandi
 	deild, þessir prentarar eiga að vera sjálgefnir (e. default) hjá notendunum. Auk þess er einn
 	prentari sem allir eiga að hafa aðgang að óháð deild og skal hann einnig koma sjálfkrafa hjá
 	öllum notendum.
-* Allir notendur eiga að vera með Bubbles screen-saver (bubbles.scr) sem fer sjálfkrafa á hjá þeim
+V* Allir notendur eiga að vera með Bubbles screen-saver (bubbles.scr) sem fer sjálfkrafa á hjá þeim
 	eftir fimm mínútur. 
 V* Allar tölvur hjá fyrirtækinu eiga að vera með Firefox.
+V* Notepad opan á login fyrir Prentun.
+v* Paint opnar á login fyrir grafíks miðlun.
