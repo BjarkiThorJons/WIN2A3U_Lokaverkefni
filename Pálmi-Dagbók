@@ -1,3 +1,6 @@
 * 29.11.2017
 Í dag var minn fyrsti tími í verkefninu. Ég byrjaði að seta upp serverinn minn og tengja hann við hans Bjarka. Setti upp Gpo og setti
 chrome og firefox á allar tölvur. Gerði það kleift að vera með gpo fyrir chrome. Setti líka upp eian win81 tölvu á domeininu.
+* 01.12.2017
+Í dag kláraði ég að laga gpo fyrir google chrome fyrir noteindur. Setti upp Bginfo. Byrjaði að seta það að prentun gétur bara notað notepad
+af öllum progrömum, samt getur hann notað file explorere til að save stuff.
